@@ -1,7 +1,5 @@
 # Demo
 
-Some text :)
-
 ## Subheader
 
 Watch tutorial on YouTube.
@@ -11,4 +9,4 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser.
 
-2. NEW
+2. NEW2
